@@ -4,9 +4,11 @@ What I used on this exercise?
 - HTML
 - Sass/Css
 - Javascript
-- JSON
+- JSON (data)
 
 Additional: Webpack bundle
+
+Description: User must able to read, edit, update, and delete the data.
 
 Steps How to Run
 
